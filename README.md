@@ -351,3 +351,16 @@ Server Information
 > cat README.md
 
 :pirate_flag: **`5b90576bedb2cc04c86a9e924ce42faf`**
+
+---
+
+**Level 30 &#8680; 31**
+
+> ```bash
+> cd /tmp/yourname
+> git clone ssh://bandit30-git@localhost/home/bandit30-git/repo
+> cd repo
+> git tag
+> git show secret
+
+:pirate_flag: **`47e603bb428404d265f59c42920d81e5`**
