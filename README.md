@@ -147,3 +147,15 @@ Server Information
 > cat data
 
 :pirate_flag: **`8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL`**
+
+---
+
+**Level 13 &#8680; 14**
+
+> ```bash
+> (127.0.0.1) scp -P2220 bandit13@bandit.labs.overthewire.org:~/sshkey.private .
+> (127.0.0.1) chmod 400 sshkey.private
+> (127.0.0.1) ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private
+> cat /etc/bandit_pass/bandit14
+
+:pirate_flag: **`4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e`**
