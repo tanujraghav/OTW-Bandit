@@ -187,3 +187,14 @@ Server Information
 > echo cluFn7wTiGryunymYOu4RcffSxQluehd | openssl s_client -connect 127.0.0.1:31790 -quiet
 
 :pirate_flag: *SSH Private Key*
+
+---
+
+**Level 17 &#8680; 18**
+
+> ```bash
+> (127.0.0.1) chmod 400 sshkey.private
+> (127.0.0.1) ssh bandit17@bandit.labs.overthewire.org -p 2220 -i sshkey.private
+> diff passwords.old passwords.new
+
+:pirate_flag: **`kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd`**
