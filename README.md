@@ -228,3 +228,14 @@ Server Information
 > (session-2) ./suconnect 2021
 
 :pirate_flag: **`gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr`**
+
+---
+
+**Level 21 &#8680; 22**
+
+> ```bash
+> cat /etc/cron.d/cronjob_bandit22
+> bash /usr/bin/cronjob_bandit22.sh
+> cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+
+:pirate_flag: **`Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI`**
