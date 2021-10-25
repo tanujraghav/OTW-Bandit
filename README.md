@@ -300,3 +300,16 @@ Server Information
 > (127.0.0.1) scp -P 2220 bandit25@bandit.labs.overthewire.org:~/bandit26.sshkey .
 
 :pirate_flag: *SSH Private Key*
+
+---
+
+**Level 26 &#8680; 27**
+
+> ```bash
+> (127.0.0.1) ssh bandit25@bandit.labs.overthewire.org -p 2220 bandit26.sshkey
+> (minimize the terminal and press `v`)
+> :set shell=/bin/bash
+> :!shell
+> ./bandit27-do cat /etc/bandit_pass/bandit27
+
+:pirate_flag: **`3ba3118a22e93127a4ed485be72ef5ea`**
