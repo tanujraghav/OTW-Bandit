@@ -337,3 +337,17 @@ Server Information
 > cat README.md
 
 :pirate_flag: **`bbc96594b4e001778eee9975372716b2`**
+
+---
+
+**Level 29 &#8680; 30**
+
+> ```bash
+> cd /tmp/yourname
+> git clone ssh://bandit29-git@localhost/home/bandit29-git/repo
+> cd repo
+> git fetch origin dev:dev
+> git checkout dev
+> cat README.md
+
+:pirate_flag: **`5b90576bedb2cc04c86a9e924ce42faf`**
