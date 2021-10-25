@@ -269,3 +269,25 @@ Server Information
 > cat password
 
 :pirate_flag: **`UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ`**
+
+---
+
+**Level 24 &#8680; 25**
+
+> ```bash
+> mkdir /tmp/yourname123
+> cd /tmp/yourname123
+> echo "#!/usr/bin/env bash
+> for i in 0 1 2 3 4 5 6 7 8 9; do
+>   for j in 0 1 2 3 4 5 6 7 8 9; do
+>     for k in 0 1 2 3 4 5 6 7 8 9; do
+>       for l in 0 1 2 3 4 5 6 7 8 9; do
+>         echo "UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $i$j$k$l" >> keys
+>       done
+>     done
+>   done
+> done" > script
+> bash script
+> cat keys | nc localhost 30002
+
+:pirate_flag: **`uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG`**
