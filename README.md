@@ -127,3 +127,23 @@ Server Information
 > cat data.txt | tr [A-Za-z] [N-ZA-Mn-za-m]
 
 :pirate_flag: **`5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu`**
+
+---
+
+**Level 12 &#8680; 13**
+
+> ```bash
+> mkdir /tmp/yourname123
+> cp ~/data.txt .
+> xxd -r data.txt > data.gz
+> gzip -d data.gz && mv data data.bz2
+> bzip2 -d data.bz2 && mv data data.gz
+> gzip -d data.gz
+> tar -xf data
+> tar -xf data5.bin && mv data6.bin data.bz2
+> bzip2 -d data.bz2
+> tar -xf data && mv data8.bin data.gz
+> gzip -d data.gz
+> cat data
+
+:pirate_flag: **`8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL`**
