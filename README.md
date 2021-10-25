@@ -25,3 +25,12 @@ Server Information
 > cat readme
 
 :pirate_flag: **`boJ9jbbUNNfktd78OOpsqOltutMc3MY1`**
+
+---
+
+**Level 1 &#8680; 2**
+
+> ```bash
+> cat ./-
+
+:pirate_flag: **`CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`**
