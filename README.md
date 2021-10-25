@@ -313,3 +313,14 @@ Server Information
 > ./bandit27-do cat /etc/bandit_pass/bandit27
 
 :pirate_flag: **`3ba3118a22e93127a4ed485be72ef5ea`**
+
+---
+
+**Level 27 &#8680; 28**
+
+> ```bash
+> cd /tmp/yourname
+> git clone ssh://bandit27-git@localhost/home/bandit27-git/repo
+> cat repo/README
+
+:pirate_flag: **`0ef186ac70e04ea33b4c1853d2526fa2`**
