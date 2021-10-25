@@ -100,3 +100,12 @@ Server Information
 > cat data.txt | sort | uniq -c | grep -v 10
 
 :pirate_flag: **`UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR`**
+
+---
+
+**Level 9 &#8680; 10**
+
+> ```bash
+> strings data.txt | grep -e [=]
+
+:pirate_flag: **`truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk`**
