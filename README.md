@@ -159,3 +159,12 @@ Server Information
 > cat /etc/bandit_pass/bandit14
 
 :pirate_flag: **`4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e`**
+
+---
+
+**Level 14 &#8680; 15**
+
+> ```bash
+> echo 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e | nc localhost 30000
+
+:pirate_flag: **`BfMYroe26WYalil77FoDi9qh59eK5xNr`**
