@@ -43,3 +43,12 @@ Server Information
 > cat "spaces in this filename"
 
 :pirate_flag: **`UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`**
+
+---
+
+**Level 3 &#8680; 4**
+
+> ```bash
+> cat inhere/.hidden
+
+:pirate_flag: **`pIwrPrtPN36QITSp3EQaw936yaFoFgAB`**
