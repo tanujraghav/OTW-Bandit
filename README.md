@@ -380,3 +380,14 @@ Server Information
 > git push origin master
 
 :pirate_flag: **`56a9bf19c63d650ce78e6ec0354ee45e`**
+
+---
+
+**Level 32 &#8680; 33**
+
+> ```bash
+> $0
+> /bin/bash
+> cat /etc/bandit_pass/bandit33
+
+:pirate_flag: **`c9c3199ddf4121b10cf581a98d51caee`**
