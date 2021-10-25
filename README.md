@@ -168,3 +168,12 @@ Server Information
 > echo 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e | nc localhost 30000
 
 :pirate_flag: **`BfMYroe26WYalil77FoDi9qh59eK5xNr`**
+
+---
+
+**Level 15 &#8680; 16**
+
+> ```bash
+> echo BfMYroe26WYalil77FoDi9qh59eK5xNr | openssl s_client -connect 127.0.0.1:30001 -quiet
+
+:pirate_flag: **`cluFn7wTiGryunymYOu4RcffSxQluehd`**
