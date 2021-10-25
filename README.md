@@ -72,3 +72,13 @@ Server Information
 > cat inhere/maybehere07/.file2
 
 :pirate_flag: **`DXjZPULLxYr17uwoI01bNLQbtFemEgo7`**
+
+---
+
+**Level 6 &#8680; 7**
+
+> ```bash
+> find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
+> cat /var/lib/dpkg/info/bandit7.password
+
+:pirate_flag: **`HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`**
