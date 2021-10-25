@@ -208,3 +208,12 @@ Server Information
 > (127.0.0.1) ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
 
 :pirate_flag: **`IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x`**
+
+---
+
+**Level 19 &#8680; 20**
+
+> ```bash
+> ./bandit20-do cat /etc/bandit_pass/bandit20
+
+:pirate_flag: **`GbKksEFF4yrVs6il55v6gwY5aVje5f0j`**
