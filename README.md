@@ -109,3 +109,12 @@ Server Information
 > strings data.txt | grep -e [=]
 
 :pirate_flag: **`truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk`**
+
+---
+
+**Level 10 &#8680; 11**
+
+> ```bash
+> base64 -d data.txt
+
+:pirate_flag: **`IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR`**
