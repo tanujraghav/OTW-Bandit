@@ -82,3 +82,12 @@ Server Information
 > cat /var/lib/dpkg/info/bandit7.password
 
 :pirate_flag: **`HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`**
+
+---
+
+**Level 7 &#8680; 8**
+
+> ```bash
+> cat data.txt | grep millionth
+
+:pirate_flag: **`cvX2JJa4CFALtqS87jk27qwqGhBM9plV`**
