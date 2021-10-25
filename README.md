@@ -52,3 +52,13 @@ Server Information
 > cat inhere/.hidden
 
 :pirate_flag: **`pIwrPrtPN36QITSp3EQaw936yaFoFgAB`**
+
+---
+
+**Level 4 &#8680; 5**
+
+> ```bash
+> file ./inhere/*
+> cat ./inhere/-file07
+
+:pirate_flag: **`koReBOKuIDDepwhWk7jZC0RTdopnAYKh`**
