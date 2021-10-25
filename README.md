@@ -239,3 +239,15 @@ Server Information
 > cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 
 :pirate_flag: **`Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI`**
+
+---
+
+**Level 22 &#8680; 23**
+
+> ```bash
+> cat /etc/cron.d/cronjob_bandit23
+> cat /usr/bin/cronjob_bandit23.sh
+> echo I am user bandit23 | md5sum | cut -d' ' -f1
+> cat /tmp/8ca319486bfbbc3663ea0fbe81326349
+
+:pirate_flag: **`jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n`**
