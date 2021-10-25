@@ -34,3 +34,12 @@ Server Information
 > cat ./-
 
 :pirate_flag: **`CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`**
+
+---
+
+**Level 2 &#8680; 3**
+
+> ```bash
+> cat "spaces in this filename"
+
+:pirate_flag: **`UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`**
