@@ -364,3 +364,19 @@ Server Information
 > git show secret
 
 :pirate_flag: **`47e603bb428404d265f59c42920d81e5`**
+
+---
+
+**Level 31 &#8680; 32**
+
+> ```bash
+> cd /tmp/yourname
+> git clone ssh://bandit31-git@localhost/home/bandit31-git/repo
+> cd repo
+> echo "May I come in?" > key.txt
+> rm .gitignore
+> git add .
+> git commit -m "request for Level 32 password"
+> git push origin master
+
+:pirate_flag: **`56a9bf19c63d650ce78e6ec0354ee45e`**
