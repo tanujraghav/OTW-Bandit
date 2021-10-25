@@ -198,3 +198,13 @@ Server Information
 > diff passwords.old passwords.new
 
 :pirate_flag: **`kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd`**
+
+---
+
+**Level 18 &#8680; 19**
+
+> ```bash
+> (127.0.0.1) ssh bandit18@bandit.labs.overthewire.org -p 2220 ls -l
+> (127.0.0.1) ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
+
+:pirate_flag: **`IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x`**
