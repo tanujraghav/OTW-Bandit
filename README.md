@@ -91,3 +91,12 @@ Server Information
 > cat data.txt | grep millionth
 
 :pirate_flag: **`cvX2JJa4CFALtqS87jk27qwqGhBM9plV`**
+
+---
+
+**Level 8 &#8680; 9**
+
+> ```bash
+> cat data.txt | sort | uniq -c | grep -v 10
+
+:pirate_flag: **`UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR`**
