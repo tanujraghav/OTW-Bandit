@@ -62,3 +62,13 @@ Server Information
 > cat ./inhere/-file07
 
 :pirate_flag: **`koReBOKuIDDepwhWk7jZC0RTdopnAYKh`**
+
+---
+
+**Level 5 &#8680; 6**
+
+> ```bash
+> find inhere/ -type f -readable ! -executable -size 1033c
+> cat inhere/maybehere07/.file2
+
+:pirate_flag: **`DXjZPULLxYr17uwoI01bNLQbtFemEgo7`**
