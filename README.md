@@ -7,3 +7,12 @@ Server Information
 |Host|<span style="font-weight:normal">ssh://bandit.labs.overthewire.org|
 |:-|:--|
 |<b>Port|2220|
+
+---
+
+**Level 0**
+
+> ```bash
+> (127.0.0.1) ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+:pirate_flag: **`bandit0`**
