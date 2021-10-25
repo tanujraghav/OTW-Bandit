@@ -217,3 +217,14 @@ Server Information
 > ./bandit20-do cat /etc/bandit_pass/bandit20
 
 :pirate_flag: **`GbKksEFF4yrVs6il55v6gwY5aVje5f0j`**
+
+---
+
+**Level 20 &#8680; 21**
+
+> ```bash
+> nmap localhost
+> (session-1) echo "GbKksEFF4yrVs6il55v6gwY5aVje5f0j" | nc -lp 2021
+> (session-2) ./suconnect 2021
+
+:pirate_flag: **`gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr`**
