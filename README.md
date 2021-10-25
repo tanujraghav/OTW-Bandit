@@ -324,3 +324,16 @@ Server Information
 > cat repo/README
 
 :pirate_flag: **`0ef186ac70e04ea33b4c1853d2526fa2`**
+
+---
+
+**Level 28 &#8680; 29**
+
+> ```bash
+> cd /tmp/yourname
+> git clone ssh://bandit28-git@localhost/home/bandit28-git/repo
+> cd repo
+> git checkout c086
+> cat README.md
+
+:pirate_flag: **`bbc96594b4e001778eee9975372716b2`**
