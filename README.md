@@ -177,3 +177,13 @@ Server Information
 > echo BfMYroe26WYalil77FoDi9qh59eK5xNr | openssl s_client -connect 127.0.0.1:30001 -quiet
 
 :pirate_flag: **`cluFn7wTiGryunymYOu4RcffSxQluehd`**
+
+---
+
+**Level 16 &#8680; 17**
+
+> ```bash
+> nmap -sV --script ssl* localhost -p31000-32000
+> echo cluFn7wTiGryunymYOu4RcffSxQluehd | openssl s_client -connect 127.0.0.1:31790 -quiet
+
+:pirate_flag: *SSH Private Key*
