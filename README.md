@@ -291,3 +291,12 @@ Server Information
 > cat keys | nc localhost 30002
 
 :pirate_flag: **`uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG`**
+
+---
+
+**Level 25 &#8680; 26**
+
+> ```bash
+> (127.0.0.1) scp -P 2220 bandit25@bandit.labs.overthewire.org:~/bandit26.sshkey .
+
+:pirate_flag: *SSH Private Key*
